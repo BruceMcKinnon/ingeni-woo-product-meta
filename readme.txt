@@ -4,7 +4,7 @@ Contributors: Bruce McKinnon
 Tags: woocommerce, seo
 Requires at least: 4.8
 Tested up to: 5.1.1
-Stable tag: 2019.01
+Stable tag: 2021.01
 
 Used in conjunction with Woocommerce. Extends the standard Woocommerce product JSON-LD meta descrition.
 
@@ -13,6 +13,8 @@ Used in conjunction with Woocommerce. Extends the standard Woocommerce product J
 * - Used in conjunction with Woocommerce. 
 
 * - Automatically adds meta descriptions for the Brand and MPN (manf Part Number) to the standard Woo product JSON-LD on each product page.
+
+* - Support simple and variable products.
 
 
 
@@ -34,3 +36,7 @@ Used in conjunction with Woocommerce. Extends the standard Woocommerce product J
 == Changelog ==
 
 v2019.01 - Initial version. Adds the ‘brand’ and ‘mpn’ fields.
+
+v2021.01 - 11 Jun 2021 - Added support for varaible products.
+
+
